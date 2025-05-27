@@ -17,7 +17,7 @@
 - **I3**: Don't swear.
 - **I4**: No politics.
 # D: Data rules
-- **D1**: Do not collect childrens' data.
+- **D1**: Do not collect children's data.
   - Same reason as G3.
 - **D2**: Do not share private information.
 - **D3**: All content and data must be related to the EEES.
