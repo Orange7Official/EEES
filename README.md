@@ -36,11 +36,7 @@
 ---
 
 ## 🧩 EEES Descriptor Structure
-
-[Tier][Type][Position]
-
-markdown
-Copy code
+`[Tier][Type][Position]`
 
 - **No script tag** is needed — the script is inferred based on tier, case/type, and position.
 
